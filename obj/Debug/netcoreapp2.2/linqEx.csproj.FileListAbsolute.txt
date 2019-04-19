@@ -1,0 +1,11 @@
+C:\Users\Janet\Workspace\csharp\exercises\linqEx\bin\Debug\netcoreapp2.2\linqEx.deps.json
+C:\Users\Janet\Workspace\csharp\exercises\linqEx\bin\Debug\netcoreapp2.2\linqEx.runtimeconfig.json
+C:\Users\Janet\Workspace\csharp\exercises\linqEx\bin\Debug\netcoreapp2.2\linqEx.runtimeconfig.dev.json
+C:\Users\Janet\Workspace\csharp\exercises\linqEx\bin\Debug\netcoreapp2.2\linqEx.dll
+C:\Users\Janet\Workspace\csharp\exercises\linqEx\bin\Debug\netcoreapp2.2\linqEx.pdb
+C:\Users\Janet\Workspace\csharp\exercises\linqEx\obj\Debug\netcoreapp2.2\linqEx.csprojAssemblyReference.cache
+C:\Users\Janet\Workspace\csharp\exercises\linqEx\obj\Debug\netcoreapp2.2\linqEx.csproj.CoreCompileInputs.cache
+C:\Users\Janet\Workspace\csharp\exercises\linqEx\obj\Debug\netcoreapp2.2\linqEx.AssemblyInfoInputs.cache
+C:\Users\Janet\Workspace\csharp\exercises\linqEx\obj\Debug\netcoreapp2.2\linqEx.AssemblyInfo.cs
+C:\Users\Janet\Workspace\csharp\exercises\linqEx\obj\Debug\netcoreapp2.2\linqEx.dll
+C:\Users\Janet\Workspace\csharp\exercises\linqEx\obj\Debug\netcoreapp2.2\linqEx.pdb
